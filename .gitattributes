@@ -1,0 +1,8 @@
+*.pem filter=git-crypt diff=git-crypt
+*.crt filter=git-crypt diff=git-crypt
+*.csr filter=git-crypt diff=git-crypt
+*.srl filter=git-crypt diff=git-crypt
+*.db filter=git-crypt diff=git-crypt
+*.attr filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+*.jks filter=git-crypt diff=git-crypt
